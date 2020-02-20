@@ -1,0 +1,9 @@
+[submodule "ECM001-MICROPHONE"]
+	path = ECM001-MICROPHONE
+	url = https://github.com/Projet-CASUS/ECM001-MICROPHONE.git
+[submodule "BMP388-PRESSURE-TEMP"]
+	path = BMP388-PRESSURE-TEMP
+	url = https://github.com/Projet-CASUS/BMP388-PRESSURE-TEMP.git
+[submodule "BMG250-GYRO"]
+	path = BMG250-GYRO
+	url = https://github.com/Projet-CASUS/BMG250-GYRO.git
